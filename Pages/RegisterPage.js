@@ -2,7 +2,7 @@ import { registerPageLocators } from "../Locators/RegisterPageLocators";
 import {page} from '@playwright/test';
 import {userData}  from "../TestData/RegisterTestData";
 
-
+// Add one line for practice 
     
 export class RegisterPage {
   constructor(page) {
