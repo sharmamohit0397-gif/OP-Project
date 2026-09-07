@@ -3,6 +3,7 @@ import {page} from '@playwright/test';
 import {userData}  from "../TestData/RegisterTestData";
 
 // Add one line for practice 
+// Add login automation 
     
 export class RegisterPage {
   constructor(page) {
